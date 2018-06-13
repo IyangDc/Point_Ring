@@ -1,0 +1,10 @@
+Added Component: Designator=T-Head(T_head)
+Add component. Clean all parameters for all variants
+Added Component: Designator=WS2812B(PIN1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Battery Pin=T-Head-1
+Added Pin To Net: NetName=GND Pin=T-Head-2
+Added Pin To Net: NetName=NetWS1_4 Pin=WS2812B-1
+Change Net Name : Old Net Name=Battery New Net Name=NetAMS1117_3
+Added Member To Class: ClassName=LEDRing Member=Component WS2812B CON1
+Added Room: Name=LEDRing

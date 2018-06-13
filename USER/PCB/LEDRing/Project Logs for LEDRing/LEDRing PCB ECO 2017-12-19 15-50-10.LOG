@@ -1,0 +1,99 @@
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=AMS1117(AMS1117-3.3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GND(HDR1X10)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T-Head(T_head)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VCC(HDR1X10)
+Add component. Clean all parameters for all variants
+Added Component: Designator=WS2812B(PIN1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=AMS1117-1
+Added Pin To Net: NetName=VCC Pin=AMS1117-2
+Added Pin To Net: NetName=VCC Pin=AMS1117-2
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=GND-2
+Added Pin To Net: NetName=GND Pin=GND-3
+Added Pin To Net: NetName=GND Pin=GND-4
+Added Pin To Net: NetName=GND Pin=GND-5
+Added Pin To Net: NetName=GND Pin=GND-6
+Added Pin To Net: NetName=GND Pin=GND-7
+Added Pin To Net: NetName=GND Pin=GND-8
+Added Pin To Net: NetName=GND Pin=GND-9
+Added Pin To Net: NetName=GND Pin=GND-10
+Added Pin To Net: NetName=GND Pin=T-Head-2
+Added Pin To Net: NetName=VCC Pin=VCC-1
+Added Pin To Net: NetName=VCC Pin=VCC-2
+Added Pin To Net: NetName=VCC Pin=VCC-3
+Added Pin To Net: NetName=VCC Pin=VCC-4
+Added Pin To Net: NetName=VCC Pin=VCC-5
+Added Pin To Net: NetName=VCC Pin=VCC-6
+Added Pin To Net: NetName=VCC Pin=VCC-7
+Added Pin To Net: NetName=VCC Pin=VCC-8
+Added Pin To Net: NetName=VCC Pin=VCC-9
+Added Pin To Net: NetName=VCC Pin=VCC-10
+Added Pin To Net: NetName=NetAMS1117_3 Pin=AMS1117-3
+Added Pin To Net: NetName=NetAMS1117_3 Pin=C3-2
+Added Pin To Net: NetName=NetAMS1117_3 Pin=C4-2
+Added Pin To Net: NetName=NetAMS1117_3 Pin=T-Head-1
+Added Net: Name=NetAMS1117_3
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=C4-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetWS1_4 Pin=WS1-4
+Added Pin To Net: NetName=NetWS1_4 Pin=WS2812B-1
+Added Net: Name=NetWS1_4
+Added Member To Class: ClassName=LEDRing Member=Component AMS1117
+Added Member To Class: ClassName=LEDRing Member=Component C1 220uF
+Added Member To Class: ClassName=LEDRing Member=Component C2 104
+Added Member To Class: ClassName=LEDRing Member=Component C3 104
+Added Member To Class: ClassName=LEDRing Member=Component C4 220uF
+Added Member To Class: ClassName=LEDRing Member=Component GND CON10
+Added Member To Class: ClassName=LEDRing Member=Component T-Head
+Added Member To Class: ClassName=LEDRing Member=Component VCC CON10
+Added Member To Class: ClassName=LEDRing Member=Component WS2812B CON1
+Added Room: Name=LEDRing

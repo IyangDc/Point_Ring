@@ -1,0 +1,146 @@
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=AMS1117(AMS1117-3.3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GND(HDR1X10)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T-Head(T_head)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VCC(HDR1X10)
+Add component. Clean all parameters for all variants
+Added Component: Designator=WS2812B(PIN1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=AMS1117-1
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=GND-2
+Added Pin To Net: NetName=GND Pin=GND-3
+Added Pin To Net: NetName=GND Pin=GND-4
+Added Pin To Net: NetName=GND Pin=GND-5
+Added Pin To Net: NetName=GND Pin=GND-6
+Added Pin To Net: NetName=GND Pin=GND-7
+Added Pin To Net: NetName=GND Pin=GND-8
+Added Pin To Net: NetName=GND Pin=GND-9
+Added Pin To Net: NetName=GND Pin=GND-10
+Added Pin To Net: NetName=GND Pin=T-Head-2
+Added Pin To Net: NetName=GND Pin=WS1-3
+Added Pin To Net: NetName=GND Pin=WS2-3
+Added Pin To Net: NetName=GND Pin=WS3-3
+Added Pin To Net: NetName=GND Pin=WS4-3
+Added Pin To Net: NetName=GND Pin=WS5-3
+Added Pin To Net: NetName=GND Pin=WS6-3
+Added Pin To Net: NetName=GND Pin=WS7-3
+Added Pin To Net: NetName=GND Pin=WS8-3
+Added Pin To Net: NetName=GND Pin=WS9-3
+Added Pin To Net: NetName=GND Pin=WS10-3
+Added Pin To Net: NetName=GND Pin=WS11-3
+Added Pin To Net: NetName=GND Pin=WS12-3
+Added Pin To Net: NetName=GND Pin=WS13-3
+Added Pin To Net: NetName=GND Pin=WS14-3
+Added Pin To Net: NetName=GND Pin=WS15-3
+Added Pin To Net: NetName=GND Pin=WS16-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetAMS1117_3 Pin=AMS1117-3
+Added Pin To Net: NetName=NetAMS1117_3 Pin=C3-2
+Added Pin To Net: NetName=NetAMS1117_3 Pin=C4-2
+Added Pin To Net: NetName=NetAMS1117_3 Pin=T-Head-1
+Added Net: Name=NetAMS1117_3
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=C4-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetWS1_2 Pin=WS1-2
+Added Pin To Net: NetName=NetWS1_2 Pin=WS2-4
+Added Net: Name=NetWS1_2
+Added Pin To Net: NetName=NetWS1_4 Pin=WS1-4
+Added Pin To Net: NetName=NetWS1_4 Pin=WS2812B-1
+Added Net: Name=NetWS1_4
+Added Pin To Net: NetName=NetWS2_2 Pin=WS2-2
+Added Pin To Net: NetName=NetWS2_2 Pin=WS3-4
+Added Net: Name=NetWS2_2
+Added Pin To Net: NetName=NetWS3_2 Pin=WS3-2
+Added Pin To Net: NetName=NetWS3_2 Pin=WS4-4
+Added Net: Name=NetWS3_2
+Added Pin To Net: NetName=NetWS4_2 Pin=WS4-2
+Added Pin To Net: NetName=NetWS4_2 Pin=WS5-4
+Added Net: Name=NetWS4_2
+Added Pin To Net: NetName=NetWS5_2 Pin=WS5-2
+Added Pin To Net: NetName=NetWS5_2 Pin=WS6-4
+Added Net: Name=NetWS5_2
+Added Pin To Net: NetName=NetWS6_2 Pin=WS6-2
+Added Pin To Net: NetName=NetWS6_2 Pin=WS7-4
+Added Net: Name=NetWS6_2
+Added Pin To Net: NetName=NetWS7_2 Pin=WS7-2
+Added Pin To Net: NetName=NetWS7_2 Pin=WS8-4
+Added Net: Name=NetWS7_2
+Added Pin To Net: NetName=NetWS8_2 Pin=WS8-2
+Added Pin To Net: NetName=NetWS8_2 Pin=WS9-4
+Added Net: Name=NetWS8_2
+Added Pin To Net: NetName=NetWS9_2 Pin=WS9-2
+Added Pin To Net: NetName=NetWS9_2 Pin=WS10-4
+Added Net: Name=NetWS9_2
+Added Pin To Net: NetName=NetWS10_2 Pin=WS10-2
+Added Pin To Net: NetName=NetWS10_2 Pin=WS11-4
+Added Net: Name=NetWS10_2
+Added Pin To Net: NetName=NetWS11_2 Pin=WS11-2
+Added Pin To Net: NetName=NetWS11_2 Pin=WS12-4
+Added Net: Name=NetWS11_2
+Added Pin To Net: NetName=NetWS12_2 Pin=WS12-2
+Added Pin To Net: NetName=NetWS12_2 Pin=WS13-4
+Added Net: Name=NetWS12_2
+Added Pin To Net: NetName=NetWS13_2 Pin=WS13-2
+Added Pin To Net: NetName=NetWS13_2 Pin=WS14-4
+Added Net: Name=NetWS13_2
+Added Pin To Net: NetName=NetWS14_2 Pin=WS14-2
+Added Pin To Net: NetName=NetWS14_2 Pin=WS15-4
+Added Net: Name=NetWS14_2
+Added Pin To Net: NetName=NetWS15_2 Pin=WS15-2
+Added Pin To Net: NetName=NetWS15_2 Pin=WS16-4
+Added Net: Name=NetWS15_2
+Added Pin To Net: NetName=VCC Pin=AMS1117-2
+Added Pin To Net: NetName=VCC Pin=AMS1117-2
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=VCC-1
+Added Pin To Net: NetName=VCC Pin=VCC-2
+Added Pin To Net: NetName=VCC Pin=VCC-3
+Added Pin To Net: NetName=VCC Pin=VCC-4
+Added Pin To Net: NetName=VCC Pin=VCC-5
+Added Pin To Net: NetName=VCC Pin=VCC-6
+Added Pin To Net: NetName=VCC Pin=VCC-7
+Added Pin To Net: NetName=VCC Pin=VCC-8
+Added Pin To Net: NetName=VCC Pin=VCC-9
+Added Pin To Net: NetName=VCC Pin=VCC-10
+Added Pin To Net: NetName=VCC Pin=WS1-1
+Added Pin To Net: NetName=VCC Pin=WS2-1
+Added Pin To Net: NetName=VCC Pin=WS3-1
+Added Pin To Net: NetName=VCC Pin=WS4-1
+Added Pin To Net: NetName=VCC Pin=WS5-1
+Added Pin To Net: NetName=VCC Pin=WS6-1
+Added Pin To Net: NetName=VCC Pin=WS7-1
+Added Pin To Net: NetName=VCC Pin=WS8-1
+Added Pin To Net: NetName=VCC Pin=WS9-1
+Added Pin To Net: NetName=VCC Pin=WS10-1
+Added Pin To Net: NetName=VCC Pin=WS11-1
+Added Pin To Net: NetName=VCC Pin=WS12-1
+Added Pin To Net: NetName=VCC Pin=WS13-1
+Added Pin To Net: NetName=VCC Pin=WS14-1
+Added Pin To Net: NetName=VCC Pin=WS15-1
+Added Pin To Net: NetName=VCC Pin=WS16-1
+Added Net: Name=VCC
+Added Class: Name=LEDRing
+Added Room: Name=LEDRing

@@ -1,0 +1,3 @@
+Added Member To Class: ClassName=LEDRing Member=Component GND CON10
+Added Member To Class: ClassName=LEDRing Member=Component VCC CON10
+Added Room: Name=LEDRing

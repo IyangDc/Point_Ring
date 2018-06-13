@@ -1,0 +1,127 @@
+Added Component: Designator=WS1(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS2(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS3(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS4(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS5(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS6(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS7(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS8(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS9(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS10(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS11(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS12(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS13(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS14(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS15(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=WS16(WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=WS1-3
+Added Pin To Net: NetName=GND Pin=WS2-3
+Added Pin To Net: NetName=GND Pin=WS3-3
+Added Pin To Net: NetName=GND Pin=WS4-3
+Added Pin To Net: NetName=GND Pin=WS5-3
+Added Pin To Net: NetName=GND Pin=WS6-3
+Added Pin To Net: NetName=GND Pin=WS7-3
+Added Pin To Net: NetName=GND Pin=WS8-3
+Added Pin To Net: NetName=GND Pin=WS9-3
+Added Pin To Net: NetName=GND Pin=WS10-3
+Added Pin To Net: NetName=GND Pin=WS11-3
+Added Pin To Net: NetName=GND Pin=WS12-3
+Added Pin To Net: NetName=GND Pin=WS13-3
+Added Pin To Net: NetName=GND Pin=WS14-3
+Added Pin To Net: NetName=GND Pin=WS15-3
+Added Pin To Net: NetName=GND Pin=WS16-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetWS1_2 Pin=WS1-2
+Added Pin To Net: NetName=NetWS1_2 Pin=WS2-4
+Added Net: Name=NetWS1_2
+Added Pin To Net: NetName=NetWS2_2 Pin=WS2-2
+Added Pin To Net: NetName=NetWS2_2 Pin=WS3-4
+Added Net: Name=NetWS2_2
+Added Pin To Net: NetName=NetWS3_2 Pin=WS3-2
+Added Pin To Net: NetName=NetWS3_2 Pin=WS4-4
+Added Net: Name=NetWS3_2
+Added Pin To Net: NetName=NetWS4_2 Pin=WS4-2
+Added Pin To Net: NetName=NetWS4_2 Pin=WS5-4
+Added Net: Name=NetWS4_2
+Added Pin To Net: NetName=NetWS5_2 Pin=WS5-2
+Added Pin To Net: NetName=NetWS5_2 Pin=WS6-4
+Added Net: Name=NetWS5_2
+Added Pin To Net: NetName=NetWS6_2 Pin=WS6-2
+Added Pin To Net: NetName=NetWS6_2 Pin=WS7-4
+Added Net: Name=NetWS6_2
+Added Pin To Net: NetName=NetWS7_2 Pin=WS7-2
+Added Pin To Net: NetName=NetWS7_2 Pin=WS8-4
+Added Net: Name=NetWS7_2
+Added Pin To Net: NetName=NetWS8_2 Pin=WS8-2
+Added Pin To Net: NetName=NetWS8_2 Pin=WS9-4
+Added Net: Name=NetWS8_2
+Added Pin To Net: NetName=NetWS9_2 Pin=WS9-2
+Added Pin To Net: NetName=NetWS9_2 Pin=WS10-4
+Added Net: Name=NetWS9_2
+Added Pin To Net: NetName=NetWS10_2 Pin=WS10-2
+Added Pin To Net: NetName=NetWS10_2 Pin=WS11-4
+Added Net: Name=NetWS10_2
+Added Pin To Net: NetName=NetWS11_2 Pin=WS11-2
+Added Pin To Net: NetName=NetWS11_2 Pin=WS12-4
+Added Net: Name=NetWS11_2
+Added Pin To Net: NetName=NetWS12_2 Pin=WS12-2
+Added Pin To Net: NetName=NetWS12_2 Pin=WS13-4
+Added Net: Name=NetWS12_2
+Added Pin To Net: NetName=NetWS13_2 Pin=WS13-2
+Added Pin To Net: NetName=NetWS13_2 Pin=WS14-4
+Added Net: Name=NetWS13_2
+Added Pin To Net: NetName=NetWS14_2 Pin=WS14-2
+Added Pin To Net: NetName=NetWS14_2 Pin=WS15-4
+Added Net: Name=NetWS14_2
+Added Pin To Net: NetName=NetWS15_2 Pin=WS15-2
+Added Pin To Net: NetName=NetWS15_2 Pin=WS16-4
+Added Net: Name=NetWS15_2
+Added Pin To Net: NetName=VCC Pin=WS1-1
+Added Pin To Net: NetName=VCC Pin=WS2-1
+Added Pin To Net: NetName=VCC Pin=WS3-1
+Added Pin To Net: NetName=VCC Pin=WS4-1
+Added Pin To Net: NetName=VCC Pin=WS5-1
+Added Pin To Net: NetName=VCC Pin=WS6-1
+Added Pin To Net: NetName=VCC Pin=WS7-1
+Added Pin To Net: NetName=VCC Pin=WS8-1
+Added Pin To Net: NetName=VCC Pin=WS9-1
+Added Pin To Net: NetName=VCC Pin=WS10-1
+Added Pin To Net: NetName=VCC Pin=WS11-1
+Added Pin To Net: NetName=VCC Pin=WS12-1
+Added Pin To Net: NetName=VCC Pin=WS13-1
+Added Pin To Net: NetName=VCC Pin=WS14-1
+Added Pin To Net: NetName=VCC Pin=WS15-1
+Added Pin To Net: NetName=VCC Pin=WS16-1
+Added Net: Name=VCC
